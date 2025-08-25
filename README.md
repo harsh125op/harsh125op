@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh125op" alt="harsh125op" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and Flutter**
-
-- 🤝 I’m looking for help with **Data science**
+- 🌱 I’m currently learning **SPRING BOOT AND REACT JS**
 
 - 📫 How to reach me **mahantiharsh@gmail.com**
 
