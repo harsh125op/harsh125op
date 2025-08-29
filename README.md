@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mahantiharsh@gmail.com**
 
-- 📄 Know about my experiences [https://cyan-phoebe-93.tiiny.site](https://cyan-phoebe-93.tiiny.site)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1LfGzykNrsIlTDhK6KQjtqJEWLGPfKILZvDIgOZ0qFwA/export?format=pdf))
 
 - ⚡ Fun fact **No life without tech!**
 
